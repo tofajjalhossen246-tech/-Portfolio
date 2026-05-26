@@ -1,0 +1,6 @@
+{
+  "name": "WordPress Developer Portfolio",
+  "description": "A dark-themed portfolio website for a professional WordPress Developer with a client-side admin panel for managing projects, services, skills, and contact messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
